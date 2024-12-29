@@ -1,1 +1,0 @@
-# Kunskapkontroll1_SQL
